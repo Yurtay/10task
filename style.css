@@ -44,7 +44,7 @@ h2 {
 
 .block {
     background: yellow;
-    background-image: url(/10/img/blok.jpg);
+    background-image: url(blok.jpg);
     border-top-left-radius: 50px;
     border-bottom-right-radius: 50px;
     padding: 0px 10px 10px 10px;
